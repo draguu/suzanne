@@ -22,7 +22,7 @@ bl_info = {
     "name": "Suzzane",
     "description": "",
     "author": "Pratik Solanki",
-    "version": (1,2),
+    "version": (1,3),
     "blender": (2, 78, 0),
     "location": "View3D",
     "warning": "This addon is still in development.",
